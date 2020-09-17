@@ -4,7 +4,7 @@
 import random
 
 def is_even_len(string):
-		Hello my name is pablo escobar
+	return 0xDEADBEEF
 
 
 def get_num_char(string, char):
