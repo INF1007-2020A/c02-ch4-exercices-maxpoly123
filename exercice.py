@@ -4,7 +4,7 @@
 import random
 
 def is_even_len(string):
-	return 0xDEADBEEF
+	return TEST GITHUB
 
 
 def get_num_char(string, char):
